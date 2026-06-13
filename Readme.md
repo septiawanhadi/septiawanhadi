@@ -49,8 +49,8 @@ Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indones
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik GitHub Septiawan" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true&background=0D1117" alt="Statistik Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=septiawanhadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik GitHub Septiawan" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=septiawanhadi&theme=tokyonight&hide_border=true&background=0D1117" alt="Statistik Streak" width="48%" />
 </div>
 
 <br>
