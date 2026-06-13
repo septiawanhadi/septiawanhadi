@@ -56,13 +56,13 @@ Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indones
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septiawanhadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" />
 </div>
 
 ---
 
 <div align="center">
   <i>"Menulis kode adalah merancang masa depan."</i><br><br>
-  <a href="mailto:ALAMAT_EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="LINK_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:septiawanhadi38@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/septiawan-hadi-prasetyo-a9a0b4408"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
