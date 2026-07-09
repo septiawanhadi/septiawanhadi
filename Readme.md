@@ -57,14 +57,14 @@ Selain berhadapan dengan kode dan merancang *layout* responsif, saya menjaga kes
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=septiawanhadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik GitHub Septiawan" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=septiawanhadi38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik GitHub Septiawan" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=septiawanhadi&theme=tokyonight&hide_border=true&background=0D1117" alt="Statistik Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septiawanhadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=septiawanhadi](https://github-readme-stats-iota-three-2dqck6b9xf.vercel.app/)&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" />
 </div>
 
 ---
