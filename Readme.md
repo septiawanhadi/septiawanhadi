@@ -8,12 +8,12 @@
 
 ### 👨‍💻 Tentang Saya
 
-Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) Kampus Cibiru. Berfokus pada pengembangan *web*, eksplorasi Kecerdasan Buatan, dan perancangan *User Experience*, saya senang membangun aplikasi yang tidak hanya fungsional tetapi juga memiliki nilai visual dan efisiensi yang tinggi.
+Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indonesia (UPI) Kampus Cibiru. Selain aktif merancang arsitektur sistem, saya juga dipercaya sebagai perwakilan di Dewan Perwakilan Mahasiswa (DPM). Saya berfokus pada pengembangan *full-stack web*, eksplorasi Kecerdasan Buatan (seperti integrasi Gemini API & RAG), serta perancangan *User Experience* dengan estetika modern seperti *Bento UI* dan *Glassmorphism*.
 
 - 🎓 Saat ini sedang menempuh pendidikan **Rekayasa Perangkat Lunak di UPI Kampus Cibiru**.
-- 💼 Pernah berkontribusi dalam pengembangan sistem dan manajemen *project* di **Diskominfo Kabupaten Bandung**.
-- 💡 Berfokus pada pengembangan aplikasi dengan metode **Agile (Scrum & Kanban Multi-Swimlanes)**.
-- 🎯 Resolusi saat ini: Mencapai IPK 3.6 dan terus mengembangkan inovasi di bidang integrasi API & AI.
+- 💼 Pernah berkontribusi dalam pengembangan *software* pelayanan di **Diskominfo Kabupaten Bandung**.
+- 💡 Mengelola alur kerja teknis dan kreatif menggunakan metode **Agile (Scrum & Kanban Multi-Swimlanes)**.
+- 🎯 Resolusi saat ini: Mencapai IPK 3.6, memperdalam *Machine Learning* (SVM), dan membangun sistem digital yang inklusif untuk masyarakat.
 
 ---
 
@@ -39,10 +39,16 @@ Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indones
 
 ### 🚀 Proyek Unggulan
 
-*   🛡️ **SafeTana:** Sistem pemantauan dan mitigasi bencana terintegrasi yang memanfaatkan *real-time data* dari API BMKG dan PetaBencana.
-*   📸 **SnapZone:** Aplikasi *photobooth digital* berbasis web dengan fitur pemilihan *layout* otomatis dan integrasi *payment gateway*.
-*   🏫 **TK Roja Web Profile:** Proyek *branding* dan pengembangan *website* profil sekolah untuk TK Roja.
-*   🤖 **AI/LLM Fine-tuning:** Eksperimen dan implementasi arsitektur Support Vector Machine (SVM) serta *fine-tuning* LLM menggunakan *framework* Unsloth.
+* 🛡️ **SafeTana:** Sistem pemantauan dan mitigasi bencana yang memetakan titik evakuasi untuk 151 kelurahan di wilayah Bandung, memanfaatkan *real-time data* dari API BMKG dan PetaBencana.
+* 🏥 **SagaHealth:** Platform kesehatan digital inovatif yang dibangun dengan mengintegrasikan *local database* dan ditenagai oleh *local AI framework* untuk privasi data yang optimal.
+* 📚 **Calistung Ceria:** Aplikasi literasi yang dirancang khusus dengan antarmuka ramah anak untuk membantu proses belajar membaca, menulis, dan berhitung.
+* 📸 **SnapZone:** Aplikasi *photobooth digital* berbasis web dengan fitur *real-time collage*, pemilihan *layout* otomatis, dan integrasi *payment gateway*.
+* 🎬 **Branding & Motion Graphics:** Berpengalaman dalam merancang aset visual dan *video bumpers* untuk berbagai keperluan acara organisasi seperti Sidang RAPBO BEM dan DPM.
+
+---
+
+### ⚡ Di Luar Layar
+Selain berhadapan dengan kode dan merancang *layout* responsif, saya menjaga keseimbangan dengan rutinitas *weight training* dan *calisthenics*. Proses *debugging* saya biasanya ditemani oleh segelas *iced latte* atau *matcha*, dan saya selalu siap untuk sepiring nasi goreng atau soto setelah sukses menyelesaikan sebuah *sprint* proyek!
 
 ---
 
