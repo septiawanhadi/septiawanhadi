@@ -13,6 +13,7 @@ Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indones
 - 🎓 Saat ini sedang menempuh pendidikan **Rekayasa Perangkat Lunak di UPI Kampus Cibiru**.
 - 💼 Pernah berkontribusi dalam pengembangan *software* pelayanan di **Diskominfo Kabupaten Bandung**.
 - 💡 Mengelola alur kerja teknis dan kreatif menggunakan metode **Agile (Scrum & Kanban Multi-Swimlanes)**.
+- 🎯 Resolusi saat ini: Mencapai IPK 3.6, memperdalam *Machine Learning* (SVM), dan membangun sistem digital yang inklusif untuk masyarakat.
 
 ---
 
@@ -38,6 +39,8 @@ Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indones
 
 ### 🚀 Proyek Unggulan
 
+* 📱 **UMKM Pintar Nusantara:** Aplikasi Android komprehensif untuk mendukung digitalisasi UMKM, dilengkapi dengan fitur pencatatan keuangan, manajemen jadwal kegiatan, serta pembuatan konten otomatis berbasis AI.
+* 🖥️ **SIDIK-TI:** Platform manajemen untuk keperluan *maintenance website* dan proses pengadaan teknologi informasi guna mendukung efisiensi operasional instansi.
 * 🛡️ **SafeTana:** Sistem pemantauan dan mitigasi bencana yang memetakan titik evakuasi untuk 151 kelurahan di wilayah Bandung, memanfaatkan *real-time data* dari API BMKG dan PetaBencana.
 * 🏥 **SagaHealth:** Platform kesehatan digital inovatif yang dibangun dengan mengintegrasikan *local database* dan ditenagai oleh *local AI framework* untuk privasi data yang optimal.
 * 📚 **Calistung Ceria:** Aplikasi literasi yang dirancang khusus dengan antarmuka ramah anak untuk membantu proses belajar membaca, menulis, dan berhitung.
