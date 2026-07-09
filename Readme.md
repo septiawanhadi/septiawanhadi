@@ -13,7 +13,6 @@ Saya adalah mahasiswa Rekayasa Perangkat Lunak di Universitas Pendidikan Indones
 - 🎓 Saat ini sedang menempuh pendidikan **Rekayasa Perangkat Lunak di UPI Kampus Cibiru**.
 - 💼 Pernah berkontribusi dalam pengembangan *software* pelayanan di **Diskominfo Kabupaten Bandung**.
 - 💡 Mengelola alur kerja teknis dan kreatif menggunakan metode **Agile (Scrum & Kanban Multi-Swimlanes)**.
-- 🎯 Resolusi saat ini: Mencapai IPK 3.6, memperdalam *Machine Learning* (SVM), dan membangun sistem digital yang inklusif untuk masyarakat.
 
 ---
 
